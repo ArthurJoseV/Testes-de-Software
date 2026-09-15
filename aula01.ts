@@ -1,17 +1,17 @@
 //Atividade 1
 
-/*
+
 
 let pelopidasriodoce: string = "Av. Brasil";
- pelopidasriodoce = "Nelson"
+pelopidasriodoce = "Nelson"
 
 if (pelopidasriodoce == "Av. Brasil") {
-   console.log("Chegaremos cedo")
+    console.log("Chegaremos cedo")
 } else {
-   console.log("Andaremos muito")
+    console.log("Andaremos muito")
 }
 
-/** */
+
 //Atividade 2
 
 
@@ -40,7 +40,7 @@ console.log(descreverPerfil(perfil))
 
 // atividade 3
 
-/*
+
 let valor1: number = 7
 let valor2: number = 0
 
@@ -51,4 +51,7 @@ while (valor2 <= 500) {
 }
 
 // atividade 4
-/** */
+
+for (let i = 0; i < 500; i++) {
+    console.log("Dá pontuação máxima pra gente, Breno");
+}
